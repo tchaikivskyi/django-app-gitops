@@ -3,7 +3,7 @@ replicaCount: 2
 
 image:
   repository: 630702530052.dkr.ecr.eu-north-1.amazonaws.com/lesson-8-9-django
-  tag: latest
+  tag: "v1"
   pullPolicy: Always
 
 containerPort: 8000
